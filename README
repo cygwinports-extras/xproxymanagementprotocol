@@ -1,6 +1,6 @@
 xproxymanagementprotocol
 ------------------------------------------
-Xorg Proxy Management protocol headers
+X.Org Proxy Management protocol headers
 
 Build requirements:
   cygwin-1.5.20-1
